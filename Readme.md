@@ -4,11 +4,13 @@ MUSIC STREAMING WEBSITE
 Functionality:
 
 1. Login/ Signup.
-2. Search for favourite tracks, artists, albums etc.
-3. Create and customize playlists.
-4. Control the music with usual controls such as play, pause, skip, shuffle, repeat etc.
-5. Adjust volume using volume bar.
-6. Update user details / Logout.
+2. username= Admin
+3. password= pass
+4. Search for favourite tracks, artists, albums etc.
+5. Create and customize playlists.
+6. Control the music with usual controls such as play, pause, skip, shuffle, repeat etc.
+7. Adjust volume using volume bar.
+8. Update user details / Logout.
 
 
 Languages/Skills used:
